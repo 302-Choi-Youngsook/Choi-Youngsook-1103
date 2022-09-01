@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, 👋
+I'm leaning C++ in CS202 and am currently creating my readme file to get the first lab assignment done! 
 
 <!--
 **Choi-Youngsook-1103/Choi-Youngsook-1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
